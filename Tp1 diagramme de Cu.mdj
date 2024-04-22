@@ -4240,7 +4240,7 @@
 											"top": 852,
 											"width": 148,
 											"height": 13,
-											"text": "Encaisse somme"
+											"text": "Encaisse Client"
 										},
 										{
 											"_type": "LabelView",
@@ -8098,7 +8098,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGO9dBPceJWCHc="
 					},
-					"name": "Encaisse somme"
+					"name": "Encaisse Client"
 				},
 				{
 					"_type": "UMLUseCase",
